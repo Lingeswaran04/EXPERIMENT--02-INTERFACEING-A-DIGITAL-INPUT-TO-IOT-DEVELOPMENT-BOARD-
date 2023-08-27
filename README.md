@@ -301,11 +301,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
- ![WhatsApp Image 2023-08-26 at 16 21 25](https://github.com/Lingeswaran04/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119103865/6e6f90e2-f903-4a1a-bd67-8cd2c6ba5c60)
-![Uploading WhatsApp Image 2023-08-26 at 16.21.26.jpg…]()
+![image](https://github.com/Lingeswaran04/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119103865/56b45e75-0d48-4d3a-8249-6b00b6723b4b)
 
+ ![image](https://github.com/Lingeswaran04/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119103865/424eb16d-abbe-4656-9fff-040879e7c385)
 
- 
  
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
